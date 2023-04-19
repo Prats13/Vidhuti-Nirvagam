@@ -13,3 +13,10 @@ The operating Systems that our app will be functional on will be any android dev
 Workflow of the model
 ![image](https://user-images.githubusercontent.com/93511663/232988409-e8f0dfd1-5b8b-400e-8a83-e84bdf3f29d1.png)
 
+Screenshots of Applications
+             
+![image](https://user-images.githubusercontent.com/93511663/232988922-28ad1f49-8136-4edd-a63a-e10138ed60e1.png)
+![image](https://user-images.githubusercontent.com/93511663/232988954-4ecbf4fa-7551-43a0-80be-ed2fd0eb2a0a.png)
+![image](https://user-images.githubusercontent.com/93511663/232988988-7eb59341-ca47-4238-836f-8bd49606e369.png)
+
+Rest can be seamlesly surfed on the app that can be downloaded from the apk file uploaded in the code section. 
