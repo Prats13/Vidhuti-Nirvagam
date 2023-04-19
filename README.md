@@ -1,4 +1,6 @@
 # Vidhuti-Nirvagam
+# App link - https://drive.google.com/file/d/14g8Vug1XjfI4UhnIQGL7axiHzNcEMXWC/view?usp=sharing
+(extract the apk file from the zip file and download it in an android device to explore the app)
 Android Studio and Firebase based user-friendly hostel management interface is designed to facilitate seamless communication between hostel administration and students.
 
 Problem Statement
